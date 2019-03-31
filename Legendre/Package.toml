@@ -1,0 +1,3 @@
+name = "Legendre"
+uuid = "2c2f3b02-46f9-11e9-0814-1fd420591fde"
+repo = "https://github.com/astrojhgu/Legendre.jl"
