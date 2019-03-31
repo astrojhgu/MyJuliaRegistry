@@ -7,3 +7,4 @@ description = "This is only a test."
 69734074-434a-11e9-3b84-912a64e32b57 = { name = "Mcmc", path = "Mcmc" }
 2c2f3b02-46f9-11e9-0814-1fd420591fde = { name = "Legendre", path = "Legendre" }
 9f4e344d-96bc-545a-84a3-ae6b9e1b672b = { name = "Healpix", path = "Healpix" }
+efd4b400-47b3-11e9-1486-9f7c8b35bb6a = { name = "SeekRfi", path = "SeekRfi" }
