@@ -1,0 +1,3 @@
+name = "Mcmc"
+uuid = "69734074-434a-11e9-3b84-912a64e32b57"
+repo = "https://github.com/astrojhgu/Mcmc.jl"

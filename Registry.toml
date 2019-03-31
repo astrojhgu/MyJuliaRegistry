@@ -1,0 +1,7 @@
+name = "MyJuliaRegistry"
+uuid = "a701d84a-5389-11e9-2fcb-4fb00a3af74e"
+repo = "https://github.com/astrojhgu/MyJuliaRegistry.git"
+description = "This is only a test."
+
+[packages]
+69734074-434a-11e9-3b84-912a64e32b57 = { name = "Mcmc", path = "Mcmc" }
